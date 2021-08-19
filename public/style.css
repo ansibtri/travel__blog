@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+*{
+    font-family: 'Baloo 2', cursive;
+    /* overflow: hidden; */
+}
+.img{
+    height: 400px;
+}
+.absolute{
+    position: absolute;
+}
+.articleContent{
+    margin-top: 350px;
+}
